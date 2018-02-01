@@ -1,0 +1,109 @@
+Memory Pool is creating:
+Memory Pool is creating:
+Used: X    Available: O 
+All current blocks in memory pool:
+Index 04:                O                               
+Index 03:        O               O               
+Index 02:    O       O       O       O       
+Index 01:  O   O   O   O   O   O   O   O   
+Index 00: O O O O O O O O O O O O O O O O 
+Total Size: 16    Fail Count: 0
+
+***********************************************************************************************
+
+Request 1      Request Index= 2
+Used: X    Available: O 
+All current blocks in memory pool:
+Index 04:                X                               
+Index 03:        X               O               
+Index 02:    X       O       O       O       
+Index 01:  X   X   O   O   O   O   O   O   
+Index 00: X X X X O O O O O O O O O O O O 
+Total Size: 12    Fail Count: 0
+
+***********************************************************************************************
+
+Request 2      Request Index= 2
+Used: X    Available: O 
+All current blocks in memory pool:
+Index 04:                X                               
+Index 03:        X               O               
+Index 02:    X       X       O       O       
+Index 01:  X   X   X   X   O   O   O   O   
+Index 00: X X X X X X X X O O O O O O O O 
+Total Size: 8    Fail Count: 0
+
+***********************************************************************************************
+
+Request 3      Request Index= 2
+Used: X    Available: O 
+All current blocks in memory pool:
+Index 04:                X                               
+Index 03:        X               X               
+Index 02:    X       X       X       O       
+Index 01:  X   X   X   X   X   X   O   O   
+Index 00: X X X X X X X X X X X X O O O O 
+Total Size: 4    Fail Count: 0
+
+***********************************************************************************************
+
+Return 1      Return Index= 2
+Used: X    Available: O 
+All current blocks in memory pool:
+Index 04:                O                               
+Index 03:        O               X               
+Index 02:    O       X       X       O       
+Index 01:  O   O   X   X   X   X   O   O   
+Index 00: O O O O X X X X X X X X O O O O 
+Total Size: 8    Fail Count: 0
+
+***********************************************************************************************
+
+Request 4      Request Index= 3
+Used: X    Available: O 
+All current blocks in memory pool:
+Index 04:                X                               
+Index 03:        X               X               
+Index 02:    X       X       X       X       
+Index 01:  X   X   X   X   X   X   X   X   
+Index 00: X X X X X X X X X X X X X X X X 
+Total Size: 0    Fail Count: 0
+
+***********************************************************************************************
+
+Return 2      Return Index= 3
+Used: X    Available: O 
+All current blocks in memory pool:
+Index 04:                O                               
+Index 03:        O               X               
+Index 02:    O       X       X       O       
+Index 01:  O   O   X   X   X   X   O   O   
+Index 00: O O O O X X X X X X X X O O O O 
+Total Size: 8    Fail Count: 0
+
+***********************************************************************************************
+
+Return 3      Return Index= 2
+Used: X    Available: O 
+All current blocks in memory pool:
+Index 04:                O                               
+Index 03:        O               O               
+Index 02:    O       X       O       O       
+Index 01:  O   O   X   X   O   O   O   O   
+Index 00: O O O O X X X X O O O O O O O O 
+Total Size: 12    Fail Count: 0
+
+***********************************************************************************************
+
+Return 4      Return Index= 2
+Used: X    Available: O 
+All current blocks in memory pool:
+Index 04:                O                               
+Index 03:        O               O               
+Index 02:    O       O       O       O       
+Index 01:  O   O   O   O   O   O   O   O   
+Index 00: O O O O O O O O O O O O O O O O 
+Total Size: 16    Fail Count: 0
+
+***********************************************************************************************
+
