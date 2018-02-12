@@ -1,4 +1,4 @@
-# INFO6205
+# INFO6205 Program Structure & Algorithms
 ## Assignment1&2
 ### Memory pool simulator by using linkedlist 
 ## Assignment3
