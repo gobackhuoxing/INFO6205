@@ -9,6 +9,6 @@ Heap, insertion, merger, selection and quick sort implemention and time complexi
 Hashtable implemention and two ways for resizeing
 ## Final project
 ### Implementation of Particle Swarm Optimization on Three-body problem 
-Designed a simulator for a three-body system with graphical user interface allowing users to input initial values and generate 3D animation by using Java 3D  
-Built a model in a 3D coordinate system to represent the position and movement for the three-body system  
-Used Particle Swarm Optimization (PSO) to predict position and movement  
+1.Designed a simulator for a three-body system with graphical user interface allowing users to input initial values and generate 3D animation by using Java 3D  
+2.Built a model in a 3D coordinate system to represent the position and movement for the three-body system  
+3.Used Particle Swarm Optimization (PSO) to predict position and movement  
